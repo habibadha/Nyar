@@ -16,6 +16,7 @@ global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com',
   xteam: 'https://api.xteam.xyz',
+  akuh: 'https://restapi-production-3d97.up.railway.app',
   zahir: 'https://zahirr-web.herokuapp.com',
   bcil: 'https://75.119.137.248:21587',
   neoxr: 'https://api.neoxr.eu.org/',
@@ -32,6 +33,7 @@ global.APIKeys = { // APIKey Here
   'https://zahirr-web.herokuapp.com': 'zahirgans',
   'https://api.neoxr.eu.org/': '0fWgL9ID',
   'https://pencarikode.xyz': 'pais',
+  'https://restapi-production-3d97.up.railway.app/': 'APIKEY'
   'https://melcanz.com': 'ZZBk7EBb',
   'https://leyscoders-api.herokuapp.com': 'dappakntlll',
   'https://x-restapi.herokuapp.com': 'BETA',
